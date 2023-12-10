@@ -24,7 +24,7 @@ This script interacts with the GitHub API to list users with read access to a sp
    ```bash
    ./user-list.sh <repository-owner> <repository-name>
    
-  Replace <repository-owner> and <repository-name> with the owner and name of the GitHub repository you want to check.
+  Replace it with the owner and name of the GitHub repository you want to check.
 
 ## Prerequisites
 
