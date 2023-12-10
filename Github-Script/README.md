@@ -12,7 +12,7 @@ This script interacts with the GitHub API to list users with read access to a sp
 2. Navigate to the script directory
 
    ```bash
-   cd your-repo
+   cd Devops
 
 3. Make the script excecutable
 
